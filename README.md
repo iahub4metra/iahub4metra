@@ -3,7 +3,7 @@
 
 <p align="center">I'm a passionate self-taught web developer with about 1.5 years of non-commercial experience. I enjoy building intuitive, responsive interfaces and continuously expanding my skill set. Open to collaborations and always looking for exciting opportunities to grow and contribute.</p>
 
-- 🔭 I’m currently working on **petlove**
+- 🔭 I’m currently working on **[petlove](https://petlove-sage.vercel.app/)**
 - 🌱 I’m currently learning **SQL**
 - 💬 I enjoy working most with **Redux Toolkit** – I find real satisfaction in managing complex state with clean structure and logic.
 - 🤝 I’m open to collaboration and freelance opportunities
